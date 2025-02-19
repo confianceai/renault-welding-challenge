@@ -12,6 +12,7 @@
   "scripts": {
     "serve": "vuepress dev documentation",
     "build": "vuepress build documentation",
+    "build:pages": "VUEPRESS_BASE='/Welding-Quality-Detection-Challenge/' && vuepress build documentation",
     "lint": "prettier --write .",
     "spellcheck": "cspell ."
   },
