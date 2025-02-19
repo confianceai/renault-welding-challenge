@@ -6,15 +6,15 @@
       <a class="logo" href="https://www.confiance.ai/en/" target="_blank">
         <img
           id="logo_confiance"
-          src="/Logo_ConfianceAI.png"
+          src="Logo_ConfianceAI.png"
           alt="Confiance AI"
         />
       </a>
       <a class="logo" href="https://www.irt-systemx.fr/en/" target="_blank">
-        <img id="logo_systemx" src="/Logo_SystemX.png" alt="IRT SystemX" />
+        <img id="logo_systemx" src="Logo_SystemX.png" alt="IRT SystemX" />
       </a>
       <a class="logo" href="https://www.renault.fr/" target="_blank">
-        <img id="logo_renault" src="/Logo_Renault.png" alt="Renault" />
+        <img id="logo_renault" src="Logo_Renault.png" alt="Renault" />
       </a>
     </div>
 

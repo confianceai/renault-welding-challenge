@@ -15,7 +15,7 @@ tagline: "Join us and engage with a real-world challenge to enhance weld quality
   <a href="https://www.confiance.ai/en/" target="_blank">
     <img
       id="logo_confiance"
-      src="/Logo_ConfianceAI.png"
+      src="Logo_ConfianceAI.png"
       alt="Confiance AI"
       style="height: 150px;"
     />
@@ -60,7 +60,7 @@ Three possible outputs are possible:
 This is illustrated by the figure below:
 
 <div style="text-align: center; padding: 40px;">
-  <img src="/process.png" alt="process" width="800px">
+  <img src="process.png" alt="process" width="800px">
 </div>
 
 ## Operational Domain Design (ODD) Definition
