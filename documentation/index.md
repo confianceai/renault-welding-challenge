@@ -139,7 +139,7 @@ Here is below some examples of weldings `OK` and `KO` on two different welding s
     <li><b>Final phase:</b> from August 18th to September.<br>
     During this phase, the organizers will review the submitted results, finalize the ranking, and prepare the results.</li>
     <li><b>Results announcement:</b> September 2025 <br>
-    The winners will be announced during the Confiance.ai Day 2025.</li>
+    The winners will be announced during the Confiance.ai Community Event 2025.</li>
   </ul>
 </div>
 
@@ -152,7 +152,7 @@ Here is below some examples of weldings `OK` and `KO` on two different welding s
   <li>💡 <b>Most Original Solution:</b> 1000 €</li>
 </ul>
 
-Winners will also gain visibility at Confiance.ai Day 2025, the flagship event for industrial and responsible AI!
+Winners will also gain visibility at the Confiance.ai Community Event, the flagship gathering for industrial and responsible AI.
 
 ## Protocol
 
