@@ -132,6 +132,7 @@ export default {
     display: flex;
     justify-content: flex-start;
     align-items: center;
+    flex-wrap: wrap;
     gap: 35px;
     padding: 5px 30px 15px 30px;
 

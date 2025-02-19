@@ -90,13 +90,16 @@ export default {
 
 @media (max-width: 1024px) {
   .countdown {
-    font-size: 1.5rem;
   }
 }
 
 @media (max-width: 724px) {
   .countdown {
-    font-size: 1rem;
+    .countdown-container {
+      flex-direction: column;
+      align-items: center;
+      padding-top: 30px;
+    }
   }
 }
 </style>
