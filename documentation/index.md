@@ -3,7 +3,7 @@ layout: HomeLayout
 home: true
 
 heroImage: hero_image_3D.png
-heroText: "Trustworthy AI Challenge: Welding Quality Detection"
+heroText: "Industrial and Trustworthy AI Challenge: Welding Quality Detection"
 tagline: "Join us and engage with a real-world challenge to enhance weld quality inspection in industrial processes."
 # actionText: Get started
 # actionLink: /getStarted/
