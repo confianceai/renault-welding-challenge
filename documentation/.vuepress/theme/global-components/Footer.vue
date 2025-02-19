@@ -51,16 +51,16 @@
 
     <!-- Legal -->
     <div id="legal">
-      <a href="/Welding-Quality-Detection-Challenge/terms#terms-conditions">
+      <a href="/Welding-Quality-Detection-Challenge/meta/terms#terms-conditions">
         Terms and conditions
       </a>
       -
-      <a href="/Welding-Quality-Detection-Challenge/legal#legal-notice">
+      <a href="/Welding-Quality-Detection-Challenge/meta/legal#legal-notice">
         Legal notice
       </a>
       -
       <a
-        href="/Welding-Quality-Detection-Challenge/legal#privacy-policy-and-cookies"
+        href="/Welding-Quality-Detection-Challenge/meta/legal#privacy-policy-and-cookies"
       >
         Personal data and cookies
       </a>
