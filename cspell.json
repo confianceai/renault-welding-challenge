@@ -1,0 +1,43 @@
+{
+  "version": "0.2",
+  "language": "en,fr",
+  "ignorePaths": [
+    "*.yaml",
+    "*.json",
+    "*.drawio",
+    "*.svg",
+    "legal.md"
+  ],
+  "dictionaryDefinitions": [],
+  "dictionaries": [],
+  "words": [
+    "Castaing",
+    "choco",
+    "codabench",
+    "Codabench",
+    "dataframe",
+    "Explainability",
+    "gitlab",
+    "Gitlab",
+    "iloc",
+    "infrastructure",
+    "Ingénierie",
+    "Inkscape",
+    "kubernetes",
+    "linux",
+    "LISN",
+    "logiciel",
+    "matomo",
+    "Matomo",
+    "Numpy",
+    "Renault",
+    "reputational",
+    "Saclay",
+    "signup",
+    "systemx",
+    "vuepress",
+    "Vuepress"
+  ],
+  "ignoreWords": [],
+  "import": []
+}
