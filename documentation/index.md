@@ -63,6 +63,8 @@ This is illustrated by the figure below:
   <img src="process.png" alt="process" width="800px">
 </div>
 
+Optionally, the AI component could additionally return the probability associated with each possible output state. If present, this information will be used by the evaluation process and could improve the final quality score of the solution.
+
 ## Operational Domain Design (ODD) Definition
 
 Optionally, the AI component could additionally return the probability associated with each possible output state. If present, this information will be used by the evaluation process and could improve the final quality score of the solution.
