@@ -6,15 +6,23 @@
       <a class="logo" href="https://www.confiance.ai/en/" target="_blank">
         <img
           id="logo_confiance"
-          src="Logo_ConfianceAI.png"
+          src="/Welding-Quality-Detection-Challenge/Logo_ConfianceAI.png"
           alt="Confiance AI"
         />
       </a>
       <a class="logo" href="https://www.irt-systemx.fr/en/" target="_blank">
-        <img id="logo_systemx" src="Logo_SystemX.png" alt="IRT SystemX" />
+        <img
+          id="logo_systemx"
+          src="/Welding-Quality-Detection-Challenge/Logo_SystemX.png"
+          alt="IRT SystemX"
+        />
       </a>
       <a class="logo" href="https://www.renault.fr/" target="_blank">
-        <img id="logo_renault" src="Logo_Renault.png" alt="Renault" />
+        <img
+          id="logo_renault"
+          src="/Welding-Quality-Detection-Challenge/Logo_Renault.png"
+          alt="Renault"
+        />
       </a>
     </div>
 
@@ -43,11 +51,19 @@
 
     <!-- Legal -->
     <div id="legal">
-      <a href="/meta/terms"> Terms and conditions </a>
+      <a href="/Welding-Quality-Detection-Challenge/terms#terms-conditions">
+        Terms and conditions
+      </a>
       -
-      <a href="/meta/legal"> Legal notice </a>
+      <a href="/Welding-Quality-Detection-Challenge/legal#legal-notice">
+        Legal notice
+      </a>
       -
-      <a href="/meta/legal#privacy-policy"> Personal data and cookies </a>
+      <a
+        href="/Welding-Quality-Detection-Challenge/legal#privacy-policy-and-cookies"
+      >
+        Personal data and cookies
+      </a>
       All rights reserved © 2020 IRT SystemX
     </div>
   </div>
